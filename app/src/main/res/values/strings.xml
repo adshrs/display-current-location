@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">currentLocationApp</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude_displays_here"> </string>
+    <string name="longitude_displays_here"> </string>
+    <string name="get_location">get location</string>
+    <string name="Accuracy">Accuracy:</string>
+    <string name="accuracy_displays_here"> </string>
+
+</resources>
